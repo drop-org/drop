@@ -1,11 +1,8 @@
 {
-  "defaultHomeserver": 3,
+  "defaultHomeserver": 1,
   "homeserverList": [
-    "envs.net",
-    "halogen.city",
-    "kde.org",
-    "matrix.org",
-    "mozilla.org"
+    "matrix.dglobal.dev",
+    "envs.net"
   ],
-  "allowCustomHomeservers": true
+  "allowCustomHomeservers": false
 }
