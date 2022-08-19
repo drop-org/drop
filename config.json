@@ -1,5 +1,4 @@
 {
-  "defaultHomeserver": 1,
   "homeserverList": [
     "matrix.dglobal.dev",
   ],
